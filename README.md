@@ -1,4 +1,12 @@
-# Getting Started with Create React App
+* Profe, tuve un accidente con el proyecto, en un audio el cuento luego.
+* Alcance a armar lo que más pude, tiene harto de algunas cosas y poco de otras.
+* Funciona con una API que cree en ASP.NET
+* Es una aplicación de Salas de CHAT
+* Utilice esto para iniciar sesión, la parte de registro no la alcance a terminar: 
+* --> usuario: mchamorro@escalab.academy
+* --> password: pass123 
+
+<!-- # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
@@ -67,4 +75,4 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 ### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify) -->
