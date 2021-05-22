@@ -1,0 +1,56 @@
+  .point-menu {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.point-item{
+    margin: 1em;
+    padding: 1em;
+    color: black;
+    background-color: transparent;
+    border-color: white;
+    border-width: 3px;
+    border-style: groove;
+    border-radius: 15px;
+    float: left;
+    min-width: 300px;
+    background:White;
+}
+
+border222 {
+    border-radius: 3px;
+    background-color: #008CBA;
+    color: white;
+}
+.border2 {
+    border-radius: 3px;
+    background-color: white;
+    color: black;
+    border: 2px solid #008CBA;
+}
+.btn {
+    background-color: #008CBA;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    margin: 16px 0 !important;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.btn:hover {
+    background-color: white;
+    border: none;
+    color: #008CBA;
+    cursor: pointer;
+    border-radius: 2px;
+}
+.button-align{
+    text-align: right;
+}

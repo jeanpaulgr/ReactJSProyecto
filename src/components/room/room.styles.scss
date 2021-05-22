@@ -1,0 +1,56 @@
+.room-item{
+    margin: 1px;
+    padding-left: 1em;
+    padding-right: 1em;
+    color: dimgrey;
+    background-color: transparent;
+    
+    border-width: 3px;
+    border-radius: 5px;
+    float: left;
+    min-width: 300px;
+    background: white;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    
+}
+.room-item:hover{
+     background: #a1d3e4;   
+}
+
+border222 {
+    border-radius: 3px;
+    background-color: #008CBA;
+    color: white;
+}
+.border2 {
+    border-radius: 3px;
+    background-color: white;
+    color: black;
+    border: 2px solid #008CBA;
+}
+.btn {
+    background-color: #008CBA;
+    border: none;
+    color: #FFFFFF;
+    padding: 5px 5px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    margin: 16px 0 !important;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.btn:hover {
+    background-color: white;
+    border: none;
+    color: #008CBA;
+    cursor: pointer;
+    border-radius: 2px;
+}
+.button-align{
+    text-align: right;
+}

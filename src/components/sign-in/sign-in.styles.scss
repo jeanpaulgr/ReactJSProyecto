@@ -1,0 +1,38 @@
+.sign-in {
+  // width: 380px;
+  display: flex;
+  flex-direction: column;
+
+  .title {
+    margin: 10px 0;
+  }
+
+  .buttons {
+    display: flex;
+    justify-content: space-between;
+  }
+
+  .btn {
+    background-color: #008CBA;
+    border: none;
+    color: #FFFFFF;
+    padding: 15px 32px;
+    text-align: center;
+    -webkit-transition-duration: 0.4s;
+    transition-duration: 0.4s;
+    margin: 16px 0 !important;
+    text-decoration: none;
+    font-size: 16px;
+    cursor: pointer;
+    border-radius: 10px;
+}
+.btn:hover {
+    background-color: white;
+    border: none;
+    color: #008CBA;
+    cursor: pointer;
+    border-radius: 2px;
+}
+
+
+}
